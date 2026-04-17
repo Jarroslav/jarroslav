@@ -1,14 +1,21 @@
-As a **Lead/Senior Test Automation QA Engineer** with over six years of experience, I specialize in leading teams and architecting robust quality assurance processes from the ground up. I'm a hands-on technical expert who thrives on solving complex challenges, but my true passion lies in empowering teams and building a culture of excellence. Quality is a shared responsibility, and I use my expertise in Lean Management to drive continuous improvement that boosts both efficiency and product quality.
+Most QA teams are still writing Selenium scripts while AI is automating the work above and below them. I build the bridge.
 
-My career milestones include:
-- Successfully advocating for and securing the expansion of the AQA team, enabling us to stabilize a critical startup project and achieve departmental autonomy.
-- Leading a complete revamp of a QA framework, transitioning it from JavaScript to TypeScript, and stabilizing over 200 failing automated tests.
-- Pioneering CI/CD pipelines using Azure DevOps, Jenkins, Bitbucket, CircleCI, and GitHub Actions, which streamlined our testing and deployment practices.
-- Building a custom Cypress parallelization solution that eliminated the need for a paid dashboard, resulting in approximately $3,000 in annual savings.
-- Mentoring diverse QA teams of up to 10 members, contributing to a 35% reduction in bug reports, and fostering a collaborative learning environment.
+I'm a Lead Test Automation Engineer with 7+ years at EPAM Systems - working for clients like Schlumberger, SLB, and DELFI on cloud-native Azure environments. I specialize in Playwright/Cypress automation, CI/CD pipeline architecture, and integrating AI tools (Claude Code, Cursor, Azure AI Foundry) into QA workflows.
 
-I possess a deep technical skill set in JavaScript and TypeScript, with a mastery of automation frameworks like Cypress and Playwright. My expertise extends to cloud technologies (Azure DevOps, Kubernetes) and API testing, ensuring comprehensive coverage for modern web and desktop applications.
+What I've shipped that I'm proud of:
+- Multi-agent knowledge system on Azure AI Foundry - indexed a decade of project documentation, cut onboarding time 40-50% for 40+ engineers
+- Playwright TypeScript migration (200+ tests) - suite stability from ~60% to 95%+
+- Custom Cypress parallelization engine - eliminated $3K+/yr in CI tooling cost
+- QA team scale-up: 1 to 5 engineers, with code review governance and test architecture standards
 
-My proactive demeanor and in-depth understanding of QA processes have earned me a reputation as a go-to problem-solver among colleagues and clients. I am committed to pushing the boundaries of what QA can achieve, ensuring every project I engage with delivers exceptional results.
+What I'm building now:
+- AI agent workflows for QA automation using LangGraph.js and the Anthropic API
+- Open-source tooling for AI-assisted test case generation (TypeScript)
 
-Let's connect to discuss how I can bring this expertise and dedication to your team.
+I use AI tools in my daily work - not as a buzzword, but to actually eliminate repetitive QA work. I'm Anthropic-certified (Claude Code, Claude 101, AI Fluency Framework - all 2025-2026).
+
+On Upwork: Top Rated Plus, $100K+ lifetime earnings, 5,242 hours, 100% Job Success Score.
+
+Open to senior contract roles in QA automation, test architecture, AI-assisted testing, or engineering leadership.
+
+DM me or connect: y.krivushenko@gmail.com
